@@ -1,0 +1,42 @@
+#the-slider img {
+	width: 50%;
+	class="img-responsive";
+}
+
+/* .navbar {
+	background-color: black ;
+} */
+
+.navbar li a {
+	color: black !important;
+}
+
+.navbar li a:hover {
+	color: orange !important;
+}
+
+.navbar-default .nav.navbar-nav>.active>a {
+	background-color: white !important;
+	color: black !important;
+
+}
+
+.glyphicon {
+	color:blue;
+}
+
+
+.glyphicon.glyphicon-heart {
+	color: red;
+}
+
+footer {
+	background: #282828;
+	color: #fff;
+	margin-top: 20px;
+} 
+
+.breadcrumb>li+li:before {
+	content:none;
+}
+
